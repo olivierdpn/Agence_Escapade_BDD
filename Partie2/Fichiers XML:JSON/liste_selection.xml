@@ -1,0 +1,33 @@
+<Message_M2>
+  <Detail_du_voyage />
+  <Appartement_propose>
+    <Reference_hebergement>2893116</Reference_hebergement>
+    <Type_de_chambre>Entire home/apt</Type_de_chambre>
+    <Pres_de>Porte-Dauphine</Pres_de>
+    <Theme>16</Theme>
+    <Satisfaction_generale>4,5</Satisfaction_generale>
+    <Nombre_de_chambre>1</Nombre_de_chambre>
+    <Prix>114</Prix>
+    <Disponibilite>yes</Disponibilite>
+  </Appartement_propose>
+  <Appartement_propose>
+    <Reference_hebergement>330030</Reference_hebergement>
+    <Type_de_chambre>Private room</Type_de_chambre>
+    <Pres_de>Auteuil</Pres_de>
+    <Theme>16</Theme>
+    <Satisfaction_generale>4,5</Satisfaction_generale>
+    <Nombre_de_chambre>1</Nombre_de_chambre>
+    <Prix>123</Prix>
+    <Disponibilite>yes</Disponibilite>
+  </Appartement_propose>
+  <Appartement_propose>
+    <Reference_hebergement>645572</Reference_hebergement>
+    <Type_de_chambre>Entire home/apt</Type_de_chambre>
+    <Pres_de>Chaillot</Pres_de>
+    <Theme>16</Theme>
+    <Satisfaction_generale>4,5</Satisfaction_generale>
+    <Nombre_de_chambre>1</Nombre_de_chambre>
+    <Prix>145</Prix>
+    <Disponibilite>yes</Disponibilite>
+  </Appartement_propose>
+</Message_M2>
